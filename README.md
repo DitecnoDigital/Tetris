@@ -1,6 +1,6 @@
 ![This is me](https://github.com/DitecnoDigital/Tetris/blob/main/PortadaTetris.png)
 
-# Juego "Shooter 2D"
+# Juego "Tetris"
 Tutorial de como realizar "Tetris" en  lenguaje C++ donde puedes ver el paso a paso en:
 
 ### ⭐️Youtube:
