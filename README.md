@@ -1,4 +1,4 @@
-![This is me](https://github.com/DitecnoDigital/Shooter2D/blob/main/portads%20Shooter.png)
+![This is me](https://github.com/DitecnoDigital/Tetris/blob/main/PortadaTetris.png)
 
 # Juego "Shooter 2D"
 Tutorial de como realizar "Tetris" en  lenguaje C++ donde puedes ver el paso a paso en:
