@@ -8,10 +8,12 @@ Tutorial de como realizar "Tetris" en  lenguaje C++ donde puedes ver el paso a p
  #### 🕹 Tetris
  [![](https://img.shields.io/badge/YouTube-Tetris-red)](https://www.youtube.com/watch?v=KigwRJtYZiI)
 
-#### 🕹 Juego Shooter 2D
- [![](https://img.shields.io/badge/YouTube-Shooter2D-red)](https://www.youtube.com/watch?v=yMiyZXzqaOk&t=1196s)
+
  
  ### ⭐️ Otros tutoriales que puedes ver:
+
+ #### 🕹 Juego Shooter 2D
+ [![](https://img.shields.io/badge/YouTube-Shooter2D-red)](https://www.youtube.com/watch?v=yMiyZXzqaOk&t=1196s)
  
  #### 🕹 Quiz, Juego de Preguntas
  [![](https://img.shields.io/badge/YouTube-Quiz-red)](https://www.youtube.com/watch?v=EXs_MCt5G64)
