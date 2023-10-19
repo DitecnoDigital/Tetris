@@ -50,7 +50,7 @@ Esta realizado bajo la plataforma linux. Entonces tener ciertas consideraciones 
    
  [![](https://img.shields.io/badge/DitecnoMakers-g++-blue)](https://ditecnomakers.com/utilizar-g-para-compilar-por-consola/)  
 
- ### Para compilar desde la terminal aplica la siguiente linea:        
+ ### Para compilar desde la terminal escribí la siguiente linea:        
 
     g++ main.cpp Board.cpp Parts.cpp UI.cpp Sounds.cpp -lsfml-system -lsfml-window -lsfml-graphics -lsfml-audio -o Game
 
